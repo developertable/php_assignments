@@ -1,0 +1,78 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+main {
+    width: 90%;
+    margin: 0 auto;
+    padding: 0 1.5em;
+}
+
+header {
+    border-bottom: 2px solid black;
+    padding: .5em 0;
+    margin: 1em 0;
+}
+
+header h1 {
+    margin: 0;
+}
+
+main > h1 {
+    margin: .5em 0;
+}
+
+aside {
+    float: left;
+    width: 15%;
+    padding-left: 0;
+}
+
+section {
+    float: left;
+    width: 82%;
+    padding: 0 0 0 2em;
+}
+
+footer {
+    clear: both;
+    border-top: 2px solid black;
+    padding: .5em 0;
+    margin-top: 1em;
+}
+
+h1 {
+    margin: 0;
+    padding: .25em 0;
+    font-size: 1.5em;
+}
+
+h2 {
+    margin: 0;
+    padding: .25em 0 .5em;
+    font-size: 1.2em;
+}
+
+nav ul {
+    list-style-type: none;
+    padding-left: 0;
+    margin: 0;
+}
+
+nav ul li {
+    padding-bottom: .5em;
+}
+
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: .25em .5em;
+}
+
+.right {
+    text-align: right;
+}
