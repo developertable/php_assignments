@@ -4,7 +4,7 @@ A fully functional multi-user technical support incident tracking system built w
 
 ## 🎥 Demo Video
 
-**[View Demo Video](video/demo.mp4)**
+**[View Demo Video](video/Demo_video.mov)**
 
 A complete walkthrough demonstrating all features of the incident management system.
 
